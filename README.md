@@ -1,5 +1,5 @@
 # classification_model
-A model to classify an image and title from 20 amazon categories
+Model to predict the category of a product out of 20 amazon catagories using the image/title
 Using metadata from Amazon, https://jmcauley.ucsd.edu/data/amazon_v2/index.html
 
 85.7% accuracy using fasttext model with product title after careful cleaining 
